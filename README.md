@@ -30,9 +30,13 @@ Thư viện hỗ trợ: OpenCV, NumPy, Streamlit-WebRTC
 Plaintext
 Fruit_detection/
 ├── app.py                 # File xử lý logic AI và Streamlit chính
+
 ├── interface.py           # Chứa giao diện HTML/CSS riêng biệt
+
 ├── best1.pt               # Model YOLOv8 nhận diện loại quả
+
 ├── quality_model_full.h5   # Model Keras đánh giá chất lượng
+
 └── requirements.txt       # Danh sách các thư viện cần cài đặt
 🚀 Hướng dẫn cài đặt
 1. Cài đặt môi trường
