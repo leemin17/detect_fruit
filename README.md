@@ -29,6 +29,7 @@ Thư viện hỗ trợ: OpenCV, NumPy, Streamlit-WebRTC
 📂 Cấu trúc thư mục
 Plaintext
 Fruit_detection/
+
 ├── app.py                 # File xử lý logic AI và Streamlit chính
 
 ├── interface.py           # Chứa giao diện HTML/CSS riêng biệt
@@ -50,10 +51,12 @@ pip install streamlit ultralytics tensorflow opencv-python numpy streamlit-webrt
 3. Khởi chạy ứng dụng
 Bash
 streamlit run app.py
-🎮 Hướng dẫn sử dụng
-Chế độ Upload: Chọn "📤 Tải ảnh từ máy" ở thanh sidebar, kéo thả ảnh trái cây vào. Hệ thống sẽ hiển thị kết quả phân tích chi tiết ở cột bên phải.
+Hướng dẫn sử dụng
+Chế độ Upload:
+Chọn "Tải ảnh từ máy" ở thanh sidebar, kéo thả ảnh trái cây vào. Hệ thống sẽ hiển thị kết quả phân tích chi tiết ở cột bên phải.
 
-Chế độ Live: Chọn "🎥 Live Camera", nhấn nút Start để bắt đầu quét trái cây trực tiếp từ Webcam.
+Chế độ Live: 
+Chọn "Live Camera", nhấn nút Start để bắt đầu quét trái cây trực tiếp từ Webcam.
 
 📊 Danh sách nhãn hỗ trợ
 YOLO (Trạng thái): Raw Banana, Ripe Banana, Raw Mango, Ripe Mango, Early/Mid/Ripe Pomegranate.
