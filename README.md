@@ -1,9 +1,9 @@
 # detect_fruit
 
-🍎 Hệ thống AI Nhận diện & Đánh giá Chất lượng Trái cây
+-Hệ thống AI Nhận diện & Đánh giá Chất lượng Trái cây
 Hệ thống ứng dụng trí tuệ nhân tạo (AI) để tự động nhận diện loại trái cây, trạng thái chín và đánh giá chất lượng (Tốt/Kém) thông qua hình ảnh hoặc Camera trực tiếp. Dự án sử dụng kết hợp YOLOv8 (Nhận diện vật thể) và MobileNetV2 (Phân loại chất lượng).
 
-🌟 Tính năng nổi bật
+-Tính năng nổi bật
 Nhận diện đa năng: Hỗ trợ Chuối, Xoài, Lựu với các trạng thái Xanh/Chín.
 
 Đánh giá chất lượng: Phân loại trái cây thành "Chất lượng tốt" hoặc "Chất lượng kém" dựa trên đặc điểm bề mặt.
@@ -36,7 +36,8 @@ Fruit_detection/
 ├── quality_model_full.h5   # Model Keras đánh giá chất lượng
 
 └── requirements.txt       # Danh sách các thư viện cần cài đặt
-🚀 Hướng dẫn cài đặt
+
+Hướng dẫn cài đặt
 1. Cài đặt môi trường
 Đảm bảo bạn đã cài đặt Python, sau đó mở Terminal và chạy lệnh:
 
