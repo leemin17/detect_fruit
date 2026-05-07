@@ -1,7 +1,4 @@
 # detect_fruit
-Chào bạn, một file README.md chuyên nghiệp sẽ giúp người khác (hoặc chính bạn trong tương lai) hiểu cách cài đặt và vận hành hệ thống một cách nhanh chóng.
-
-Dưới đây là nội dung file README được thiết kế riêng cho dự án của bạn:
 
 🍎 Hệ thống AI Nhận diện & Đánh giá Chất lượng Trái cây
 Hệ thống ứng dụng trí tuệ nhân tạo (AI) để tự động nhận diện loại trái cây, trạng thái chín và đánh giá chất lượng (Tốt/Kém) thông qua hình ảnh hoặc Camera trực tiếp. Dự án sử dụng kết hợp YOLOv8 (Nhận diện vật thể) và MobileNetV2 (Phân loại chất lượng).
